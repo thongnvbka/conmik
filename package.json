@@ -13,7 +13,7 @@
     "@react-native-community/netinfo": "^5.9.0",
     "react": "16.11.0",
     "react-native": "0.62.2",
-    "react-native-fast-image": "^8.1.5",
+    "react-native-fast-image": "^8.3.0",
     "react-native-i18n": "^2.0.15",
     "react-native-image-resizer": "^1.2.2",
     "react-native-linear-gradient": "^2.5.6",
